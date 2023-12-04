@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.navbar {
+    display: flex;
+    align-items: centre;
+    justify-content: space around;
+
+}
+
+.icon img {
+    height: 70px;
+    width: 70px;
+
+}
+
+.links {
+    display: flex;
+    width: 200 px;
+    justify-content:space-between;
+
+
+}
+
+.links li{
+    lifestyle: none;
+
+}
+
+.links li a {
+    text-decoration: none;
+    color: #fb8500;
+
+}
+
+.buttons button {
+    padding: 5px;
+    \*background: white;
+    color: #fb8500;
+    border-radius: 5px;
+    
+}
+
+
+}
